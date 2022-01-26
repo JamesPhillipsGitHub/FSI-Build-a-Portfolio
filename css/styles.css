@@ -2,5 +2,33 @@ body {
     color: #17365d; 
     font-family: courier;
     text-align: center;
+    
     /* font-size: 160%; */
-}                   
+}  
+/* 96px per inch */
+table, tr, td {
+    border: 0px solid black;
+    border-style: dotted;
+    margin-left: auto;
+    margin-right: auto;
+  }    
+table {
+    width: 8.5in;
+}    
+.address {
+    text-align:left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 11pt;
+    color:black;
+    width: 2.5in;
+}
+.contact {
+    text-align:right;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 11pt;
+    color:black;
+    width: 2.5in;
+}     
+.line {
+    border-bottom: 1px solid blue;
+}     
