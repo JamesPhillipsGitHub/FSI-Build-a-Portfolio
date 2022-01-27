@@ -11,6 +11,7 @@ table, tr, td {
     border-style: dotted;
     margin-left: auto;
     margin-right: auto;
+    background-color: white;
   }    
 table {
     width: 8.5in;
@@ -20,14 +21,14 @@ table {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 12pt;
     color:black;
-    width: 2.5in;  
+    width: 2.0in;  
 }
 .contact {
     text-align:right;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 12pt;
     color:black;
-    width: 2.5in; 
+    width: 2.0in; 
 }     
 .line {
     border-bottom: 1px solid black;
@@ -37,4 +38,11 @@ li {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 12pt;
     color:black; 
-}    
+} 
+
+body {
+    background-color: black;
+  } 
+.margin {
+    width: 0.25in;
+}
