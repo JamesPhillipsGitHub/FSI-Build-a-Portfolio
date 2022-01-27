@@ -18,17 +18,23 @@ table {
 .address {
     text-align:left;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 11pt;
+    font-size: 12pt;
     color:black;
-    width: 2.5in;
+    width: 2.5in;  
 }
 .contact {
     text-align:right;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 11pt;
+    font-size: 12pt;
     color:black;
-    width: 2.5in;
+    width: 2.5in; 
 }     
 .line {
     border-bottom: 1px solid blue;
-}     
+} 
+li {
+    text-align:left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12pt;
+    color:black; 
+}    
