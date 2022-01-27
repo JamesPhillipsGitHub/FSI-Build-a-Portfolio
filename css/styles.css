@@ -30,7 +30,7 @@ table {
     width: 2.5in; 
 }     
 .line {
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid black;
 } 
 li {
     text-align:left;
